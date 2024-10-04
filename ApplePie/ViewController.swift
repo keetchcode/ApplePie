@@ -29,7 +29,7 @@ class ViewController: UIViewController {
     updateGameState()
   }
 
-  // I acknowledge this is not proper convenient o have my letterButtonPressed function above my viewDidLoad but I don't want to fix it and have to redo the connections.
+  // I acknowledge this is not proper convenient to have my letterButtonPressed function above my viewDidLoad but I don't want to fix it and have to redo the connections.
 
   override func viewDidLoad() {
     super.viewDidLoad()
